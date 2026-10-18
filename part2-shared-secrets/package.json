@@ -1,0 +1,8 @@
+{
+  "name": "part2-shared-secrets",
+  "version": "1.0.0",
+  "description": "Demo: secrets in a .env file committed to the repo (insecure on purpose)",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "dependencies": { "dotenv": "^18.0.8" }
+}
